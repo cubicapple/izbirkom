@@ -1,0 +1,19 @@
+# HTTP Cookie File for izbirkom.ru by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&root_a=1000001&vrn=100100163596966&region=0&global=true&type=0&prver=0&pronetvd=null"
+#   2) curl --cookie cookies.txt "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&root_a=1000001&vrn=100100163596966&region=0&global=true&type=0&prver=0&pronetvd=null"
+#   3) aria2c --load-cookies cookies.txt "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&root_a=1000001&vrn=100100163596966&region=0&global=true&type=0&prver=0&pronetvd=null"
+#
+.izbirkom.ru	TRUE	/	FALSE	0	__utmc	252441553
+.izbirkom.ru	TRUE	/	FALSE	1618477335	__utmz	252441553.1602682913.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.adygei.izbirkom.ru	TRUE	/	FALSE	0	PHPSESSID	7i54qfehaefr2ggquvjejlhel3
+www.moscow_city.vybory.izbirkom.ru	FALSE	/	FALSE	0	JSESSIONID	799d68c91d06ff63b4e835e00570
+www.izbirkom.ru	FALSE	/	FALSE	0	JSESSIONID	7effc275ab523990f176ab0374ed
+www.altai_rep.vybory.izbirkom.ru	FALSE	/	FALSE	0	JSESSIONID	7f8dadd301360fae3c57dfa51cda
+www.adygei.vybory.izbirkom.ru	FALSE	/	FALSE	0	JSESSIONID	80e97a06e200c140e42deed90c82
+.vybory.izbirkom.ru	TRUE	/	FALSE	1602710225	izbirSession	5ec0f7cc-c4c7-431e-9b3d-aabd30415c81
+.izbirkom.ru	TRUE	/	FALSE	1665781335	__utma	252441553.1166678113.1602682913.1602693036.1602709333.4
+.izbirkom.ru	TRUE	/	FALSE	1602709932	__utmt	1
+www.vybory.izbirkom.ru	FALSE	/	FALSE	0	JSESSIONID	8ea36e33cd04d17b1527acc5e6b6
+.izbirkom.ru	TRUE	/	FALSE	1602711135	__utmb	252441553.2.10.1602709333
